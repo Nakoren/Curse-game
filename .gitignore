@@ -1,0 +1,10 @@
+﻿*.vsconfig
+Assembly-CSharp.csproj
+Course game (temporary name).sln
+ignore.conf
+.plastic
+.vs
+obj
+UserSettings
+Logs
+Library
